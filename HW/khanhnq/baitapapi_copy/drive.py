@@ -3,7 +3,7 @@ import os
 import gdown
 
 # URL của folder trên Google Drive
-FOLDER_URL = 'https://drive.google.com/drive/folders/1AS5oTybX4fGji3e-89n6WbtFY8a8umsy'
+FOLDER_URL = 'https://drive.google.com/drive/folders/1dSStOWQ_8niutzRvM2NHAGWCHtaD-dTn?hl=vi'
 # Thư mục đích muốn lưu
 OUTPUT_DIR = 'D:\README\demo'
 
